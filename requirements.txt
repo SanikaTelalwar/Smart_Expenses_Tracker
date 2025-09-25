@@ -1,6 +1,5 @@
 streamlit
-supabase
 pandas
 altair
-pillow
-pytesseract
+gspread
+oauth2client
